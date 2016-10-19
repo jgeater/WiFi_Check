@@ -1,0 +1,6 @@
+C:\Users\jgeau\Documents\Source\Utilities\WiFi_Check\WiFi_Check\bin\Debug\WiFi_Check.exe.config
+C:\Users\jgeau\Documents\Source\Utilities\WiFi_Check\WiFi_Check\bin\Debug\WiFi_Check.exe
+C:\Users\jgeau\Documents\Source\Utilities\WiFi_Check\WiFi_Check\bin\Debug\WiFi_Check.pdb
+C:\Users\jgeau\Documents\Source\Utilities\WiFi_Check\WiFi_Check\obj\Debug\WiFi_Check.csprojResolveAssemblyReference.cache
+C:\Users\jgeau\Documents\Source\Utilities\WiFi_Check\WiFi_Check\obj\Debug\WiFi_Check.exe
+C:\Users\jgeau\Documents\Source\Utilities\WiFi_Check\WiFi_Check\obj\Debug\WiFi_Check.pdb
