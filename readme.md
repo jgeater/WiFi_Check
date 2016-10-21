@@ -19,8 +19,6 @@ In an SCCM task sequence just run the command DockCheck.exe in a "run command li
 The task sequence will see and exit code of 0 if a wired network connextion is availible
 The task sequence will see and exit code of 1 if a wired network connextion is not availible and exit unless you have the "continue on error" option checked.
 
-source code availible upon request 
-
 Basic Design: 
 This uses NetworkInterface.NetworkInterfaceType Property described below
 https://msdn.microsoft.com/en-us/library/system.net.networkinformation.networkinterface.networkinterfacetype(v=vs.110).aspx
